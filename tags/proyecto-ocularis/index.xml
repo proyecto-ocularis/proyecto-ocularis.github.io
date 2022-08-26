@@ -7,7 +7,363 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 07 Aug 2005 00:00:00 +0000</lastBuildDate><atom:link href="https://proyecto-ocularis.github.io/tags/proyecto-ocularis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Feb 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://proyecto-ocularis.github.io/tags/proyecto-ocularis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sindicando por categorías</title>
+      <link>https://proyecto-ocularis.github.io/post/2007-02-18-sindicando-por-categorias/</link>
+      <pubDate>Sun, 18 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2007-02-18-sindicando-por-categorias/</guid>
+      <description>
+        
+          
+            Por fin llevo a cabo un asunto al que le estaba dando vueltas hace tiempo. He recibido mails y comentarios con algunas opiniones que me sorprendieron. Les gustaban más los (pocos) artículos que no van de oftalmología que los que son más técnicos. Me sorprendió porque al fin y al cabo, el blog va sobre el aparato visual, y desde que empecé a recibir ya un cierto número de visitas, la bitácora dejó de ser un blog personal para ser un proyecto más serio y coherente, con el fin de establecerse como un elemento de información y docencia (en eso estamos, el tiempo dirá si me acerco a esa meta).
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Concurso de blogs</title>
+      <link>https://proyecto-ocularis.github.io/post/2007-01-15-concurso-de-blogs/</link>
+      <pubDate>Mon, 15 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2007-01-15-concurso-de-blogs/</guid>
+      <description>
+        
+          
+            Repasando los artículos de Shora, me he acordado que en su día inscribí al blog en los premios 20 minutos, concretamente en el apartado de ciencia y medioambiente.
+Si no llega a ser por el artículo en Medtempus, se me hubiera olvidado seguro. El caso es que en su momento me dio el puntazo y lo apunté, aunque no sé realmente por qué, ya que:
+No tengo ninguna posibilidad de ganar.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>¿Liado?</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-12-29-liado/</link>
+      <pubDate>Fri, 29 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-12-29-liado/</guid>
+      <description>
+        
+          
+            ¿Liado? ¿O solo un poco mareado de la rueda de blogs?
+Tranquilo, no te estás volviendo loco, y tu navegador funciona perfectamente. Esto ha sido solo una pequeña trastada de :
+http://www.curiosoperoinutil.com
+http://ocularis.es
+http://rmcantin.blogspot.com
+http://ndscdg.blogspot.com
+Y es que aquí (si es que son de fuera y no lo saben) el 28 de diciembre es día de hacer esas cosas. ¡No dejen de visitarlos todos!
+Ah, y el contenido de los artículos no es de broma.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>¿Tiene derechos mi lavadora?</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-12-28-tiene-derechos-mi-lavadora/</link>
+      <pubDate>Thu, 28 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-12-28-tiene-derechos-mi-lavadora/</guid>
+      <description>
+        
+          
+            The reserve of modern assertions is sometimes pushed to extremes, in which the fear of being contradicted leads the writer to strip himself of almost all sense and meaning.
+Sir Winston Churchill
+Surfeando por internet he encontrado esta interesante noticia
+Informe del Reino Unido anuncia que los robots tendrán derechos (en inglés).
+El informe en cuestión, aunque ha sido apoyado por el consejero científico en jefe del gobierno británico, ha sido redactado por dos agencias privadas, una consultora especializada en previsiones de escenarios y otra dedicada a la publicidad y el marketing.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Adiós &amp;quot;definitivo&amp;quot; al foro</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-12-11-adios-definitivo-al-foro/</link>
+      <pubDate>Mon, 11 Dec 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-12-11-adios-definitivo-al-foro/</guid>
+      <description>
+        
+          
+            Este puente he tenido tiempo para hacer el último intento con el foro (estaba intentando hacer que los post fueran moderados). Con ayuda de Ged (¡gracias!) he estado buscando soluciones, primero probando otro gestor de foro, el smf, y luego intentando instalar una ampliación para el phpBB (el gestor que estaba usando). Me temo que no he conseguido hacerlo funcionar, así que &amp;quot;definitivamente&amp;quot; el foro queda deshabilitado. Entrecomillo lo de &amp;quot;definitivamente&amp;quot; porque no pierdo la esperanza de que en la siguiente versión del phpBB pongan la opción de post moderados.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Versionando y reformando el proyecto</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-11-26-versionando-y-reformando-el-proyecto/</link>
+      <pubDate>Sun, 26 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-11-26-versionando-y-reformando-el-proyecto/</guid>
+      <description>
+        
+          
+            He estado haciendo algún cambio menor en el blog.
+Las versiones del Proyecto Ocularis Dentro del apartado del proyecto, he hecho dos secciones. Una de ellas, denominada &amp;quot;historia&amp;quot;, hace un recorrido por las diferentes etapas que ha pasado el Proyecto Ocularis. Lo he organizado (de una algo geek, imitando los proyectos de software) en forma de versiones numeradas. Cada etapa del proyecto es una versión, la cual queda definida por dos números separados por un punto.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>El foro queda suspendido</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-10-07-el-foro-queda-suspendido/</link>
+      <pubDate>Sat, 07 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-10-07-el-foro-queda-suspendido/</guid>
+      <description>
+        
+          
+            Ocho meses después de la aparición del foro, voy a inactivarlo.
+El problema La aparición del foro respondía a una necesidad surgida del blog: se necesitaba un lugar donde se pudiera hablar de temas relacionados con la visión sin que hubiera que ceñirse al tema de un artículo. Se podían así realizar dudas o comentarios sobre aspectos no contemplados en los artículos del blog, y así no tener que hacer off-topic en la bitácora.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>¡Ha llegado Hispaciencia!</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-08-31-ha-llegado-hispaciencia/</link>
+      <pubDate>Thu, 31 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-08-31-ha-llegado-hispaciencia/</guid>
+      <description>
+        
+          
+            Con toda la ilusión del mundo, ya puedo dar a conocer un proyecto que ha ocupado parte de mi tiempo libre desde hace meses. No es una cosa mía como este blog, es algo en común que hemos realizado cinco personas ( Shora, el gato cuántico, Gauss, Caronte y yo) y muchos más colaboradores. Hoy 1 de Septiembre de 2006, sale a la luz.
+Esto era la &amp;quot;otra cosa&amp;quot; en la que andaba metido, el misterio que he ido dejando caer en algunos artículos y comentarios recientes.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Primeras impresiones del blog nuevo, y volvemos al curso.</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-08-28-primeras-impresiones-del-blog-nuevo-y-volvemos-al-curso/</link>
+      <pubDate>Mon, 28 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-08-28-primeras-impresiones-del-blog-nuevo-y-volvemos-al-curso/</guid>
+      <description>
+        
+          
+            Estrenando la bitácora He dejado adrede unos días antes de escribir un nuevo artículo. La idea es que los que me tuvieran agregado a un lector rss les diera tiempo de ir cambiando a la nueva dirección, al igual que los marcadores/favoritos que algunos tuvieran en su navegador. Estos 10 días han servido también para testear el nuevo blog, ir encontrando los fallos, traduciendo algunas cosas, y en definitiva para irme familiarizando con el entorno del gestor (WordPress).
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>¡Migro el blog!</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-08-18-migro-el-blog/</link>
+      <pubDate>Fri, 18 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-08-18-migro-el-blog/</guid>
+      <description>
+        
+          
+            Estos eran los &amp;quot;cambios a corto plazo&amp;quot; que adelantaba en mi último artículo, en el que se cumplía un año desde que comencé mi andadura por la blogosfera. Dejo la comunidad de La Coctelera y establezco la bitácora en mi alojamiento personal: http://ocularis.es. Hasta ahora, mi alojamiento lo he estado utilizando principalmente para mantener el foro, y la página principal de ocularis.es era unos documentos HTML planos (un tanto cutrecillos) donde explicaba en qué consistía el Proyecto Ocularis, y donde hablaba un poco sobre mí y sobre la oftalmología.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>El Proyecto Ocularis cumple 1 año</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-08-07-el-proyecto-ocularis-cumple-1-ano/</link>
+      <pubDate>Mon, 07 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-08-07-el-proyecto-ocularis-cumple-1-ano/</guid>
+      <description>
+        
+          
+            Hoy es mi &amp;quot;cumpleblog&amp;quot;. Ya han transcurrido 12 meses y se me ha hecho muy corto. De hecho, a poco se me pasa el día :)
+Pequeña historia El 7 de agosto de 2005 inauguraba este blog. Aí­ aparecía la primera y más importante actividad del proyecto: la bitácora. El objetivo de dicho proyecto fue desde el principio la divulgación de temas relacionados con la oftalmología. Un objetivo meramente docente, alejado, por decirlo así, de la consulta médica.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Optimizando los comentarios</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-05-10-optimizando-los-comentarios/</link>
+      <pubDate>Wed, 10 May 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-05-10-optimizando-los-comentarios/</guid>
+      <description>
+        
+          
+            Vamos a llevar a cabo una sugerencia que me ha hecho amablemente el equipo de Blogmasters (en este artículo explico las funciones de este equipo que me ayuda a mantener el proyecto). Desde aquí les doy las gracias por su dedicación. Entonces, ampliando un poco las competencias vamos a limpiar los artículos con mayor afluencia de comentarios para hacerlos más legibles. Se eliminarán todos los comentarios que no aporten datos nuevos siguiendo la idea de divulgación del Proyecto Ocularis.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Ajustes en el Proyecto Ocularis</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-04-10-ajustes-en-el-proyecto-ocularis/</link>
+      <pubDate>Mon, 10 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-04-10-ajustes-en-el-proyecto-ocularis/</guid>
+      <description>
+        
+          
+            El proyecto que empecé hace casi 8 meses necesita nuevos ajustes. Comenzó con este blog, y actualmente también consta la web y el foro asociados. La web de momento es poco más que una URL fácil de recordar, para tener de referencia y enlazar con los elementos importantes: este blog, que ya supera las 40 mil visitas, y el foro, que a pesar de su juventud ya tiene más de 3 mil visitas y más de 50 usuarios registrados.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Cambios en el blog</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-02-15-cambios-en-el-blog/</link>
+      <pubDate>Wed, 15 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-02-15-cambios-en-el-blog/</guid>
+      <description>
+        
+          
+            He ido realizando una serie de cambios en el blog, que paso a detallar:
+Cambios en el contador
+He eliminado el contador de Webstat, que era responsable de al menos un molesto pop-up de publicidad que saltaba al cargar mi blog. El Firefox 1.5 bloquea todos los pop-ups, pero versiones más antiguas del navegador sólo bloquean una. Ni que decir tiene que el Explorer tampoco bloquea los pop-ups, pero como el 89% de mis visitantes usa este navegador, entiendo que sufrían por esa incómoda publicidad.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>¡Mi blog tiene ya medio año!</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-02-07-mi-blog-tiene-ya-medio-ano/</link>
+      <pubDate>Tue, 07 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-02-07-mi-blog-tiene-ya-medio-ano/</guid>
+      <description>
+        
+          
+            Hace hoy seis meses comencé mi andadura por la blogosfera. En principio tenía idea de hacer una página web donde colgara algunos resúmenes de los temas más importantes de la oftalmología. Inicialmente lo había pensado para mis residentes, para algún internauta perdido que cayera googleando términos relacionados con los ojos, y sobre todo para mí mismo. Digo lo de para mí mismo porque cuando era estudiante me hice una página personal.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Mi página web y el foro</title>
+      <link>https://proyecto-ocularis.github.io/post/2006-01-26-mi-pagina-web-y-el-foro/</link>
+      <pubDate>Thu, 26 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2006-01-26-mi-pagina-web-y-el-foro/</guid>
+      <description>
+        
+          
+            Hola a todos: Por fin tengo una página personal. Gracias a un gran esfuerzo de originalidad (nótese la ironía), la he llamado ocularis.es (o bien www.ocularis.es). La he creado con 2 objetivos principales: * Para uso personal, unas guías diagnósticas y terapéuticas que he ido haciendo. De esta forma las que puedo consultar desde cualquier ordenador con conexión a internet. Esta sección no tiene interés para la gente porque sólo podré entrar yo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Actualizando el blog y otras cosas</title>
+      <link>https://proyecto-ocularis.github.io/post/2005-12-30-actualizando-el-blog-y-otras-cosas/</link>
+      <pubDate>Fri, 30 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2005-12-30-actualizando-el-blog-y-otras-cosas/</guid>
+      <description>
+        
+          
+            Sin querer dar envidia a nadie, estos días estoy de vacaciones y la verdad es que se está fenomenal. Así puedo hacer un artículo informal (éste), ya que el apartado &amp;quot;sobre mí&amp;quot; está tristemente desierto debido a que todo lo que escribo va de oftalmología, y tampoco es cuestión. Lo titulo &amp;quot;Actualizando el blog&amp;quot; porque hago unos pequeños cambios: - En la escueta descripción propia que hay en el apartado &amp;quot;sobre mí&amp;quot; me cambio mi edad, porque recientemente he cumplido 29 años.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Salgo en Microsiervos  :-)</title>
+      <link>https://proyecto-ocularis.github.io/post/2005-12-17-salgo-en-microsiervos/</link>
+      <pubDate>Sat, 17 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2005-12-17-salgo-en-microsiervos/</guid>
+      <description>
+        
+          
+            Bien, hoy 17 de diciembre sale mi blog referenciado en este artículo de Microsiervos. Soy un fiel seguidor de este gran blog de ciencia, tecnología, internet, etc. Desde aquí mi agradecimiento a los dueños del blog, en especial a Alvy que le ha parecido de interés una serie de cuatro artículos que a mí me parecían &amp;quot;minoritarios&amp;quot;, un poco ida de pelota y quizá demasiado específico.
+La verdad es que me conecté a lo de &amp;quot;ad-free blogs&amp;quot; (lo del búho de la columna derecha) porque me parecía una buena iniciativa.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Sugerencias para un nuevo artículo (y otros temas)</title>
+      <link>https://proyecto-ocularis.github.io/post/2005-12-15-sugerencias-para-un-nuevo-articulo-y-otros-temas/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2005-12-15-sugerencias-para-un-nuevo-articulo-y-otros-temas/</guid>
+      <description>
+        
+          
+            Esta mañana, al conectarme desde el trabajo al blog, me he dado cuenta que con el Internet Explorer se ve mal mi página. Como en casa uso el Firefox no me había dado cuenta, la verdad. Y viendo las estadísticas de mi blog, la mayoría de las visitas que recibo son con el Internet Explorer. Lo que se ve mal es la barra de la derecha, todos los apartados de esa columna (menos el primero) se desplazan abajo del todo.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Nuevas categorías</title>
+      <link>https://proyecto-ocularis.github.io/post/2005-11-29-nuevas-categorias/</link>
+      <pubDate>Tue, 29 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2005-11-29-nuevas-categorias/</guid>
+      <description>
+        
+          
+            He creado 9 categorías para ir clasificando los artículos, porque al meterlos todos dentro del apartado &amp;quot;Oftalmología&amp;quot;, sólo se ordenan cronológicamente. Como voy escribiendo según se me ocurre, queda bastante desordenado. Estas secciones siguen aproximadamente las superespecialidades dentro de la oftalmología. &amp;quot;¿Superespecialidades?, pero si el ojo ya es muy pequeño&amp;quot;, me diréis alguno. Eso pensaba yo cuando elegí la especialidad, pero la oftalmología da mucho de sí. Es sin duda una da las ramas médicas más tecnificadas, si no la más, y que más desarrollo ha tenido los últimos años.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Acerca de este blog y las consultas particulares</title>
+      <link>https://proyecto-ocularis.github.io/post/2005-11-17-acerca-de-este-blog-y-las-consultas-particulares/</link>
+      <pubDate>Thu, 17 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://proyecto-ocularis.github.io/post/2005-11-17-acerca-de-este-blog-y-las-consultas-particulares/</guid>
+      <description>
+        
+          
+            Desde que abrí este blog, no hace ni cuatro meses, hasta hoy, he recibido muchos comentarios y muchas más visitas, algo que me ha sorprendido mucho y agradablemente. Al fin y al cabo, es un blog monotemático con un contenido relativamente lejano de los gustos mayoritarios. Estoy por ello muy contento, teniendo en cuenta que con el poco tiempo libre que tengo no escribo artículos con la frecuencia que querría, de hecho tengo varios pendientes desde hace tiempo.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>El primer artículo</title>
       <link>https://proyecto-ocularis.github.io/post/2005-08-07-primer_articulo/</link>

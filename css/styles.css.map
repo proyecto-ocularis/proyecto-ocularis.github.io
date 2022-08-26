@@ -1,18 +1,18 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/ruben/Hugo/ocularis",
+	"sourceRoot": "/Users/ruben/hugo/ocularis",
 	"sources": [
 		"assets/sass/main.sass",
-		"assets/sass/_variables.sass",
-		"assets/sass/_override.sass",
-		"assets/sass/_fonts.sass",
-		"assets/sass/_base.sass",
-		"assets/sass/_components.sass",
-		"assets/sass/_utils.sass",
-		"assets/sass/_mobile.sass",
-		"assets/sass/_syntax.sass",
-		"assets/sass/_custom.sass"
+		"../../hugo/ocularis/assets/sass/_variables.sass",
+		"../../hugo/ocularis/assets/sass/_override.sass",
+		"../../hugo/ocularis/assets/sass/_fonts.sass",
+		"../../hugo/ocularis/assets/sass/_base.sass",
+		"../../hugo/ocularis/assets/sass/_components.sass",
+		"../../hugo/ocularis/assets/sass/_utils.sass",
+		"../../hugo/ocularis/assets/sass/_mobile.sass",
+		"../../hugo/ocularis/assets/sass/_syntax.sass",
+		"../../hugo/ocularis/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"$baseURL: 'https://proyecto-ocularis.github.io/';\n$fontsPath: '../fonts/';\n$imagesPath: '../images/';\n$iconsPath: '../icons/';\n@import 'variables';\n@import 'override';\n@import 'fonts';\n@import 'base';\n@import 'components';\n@import 'utils';\n@import 'mobile';\n@import 'syntax';\n@import 'custom';\n",
